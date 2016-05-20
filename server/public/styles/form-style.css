@@ -1,0 +1,52 @@
+/* *{
+	border: 1px dotted green;
+} */
+
+h1 {
+  color: teal;
+}
+
+h2 {
+  color: red;
+}
+
+#empinfo {
+  display: block;
+  width: 1000px;
+  margin: auto;
+}
+
+#employeeinfo {
+  width: 500px;
+  /*float: left; */
+  margin: 10px 10px 10px 10px;
+}
+
+#totalsalaries {
+  display: block;
+  width: 500px;
+  height: 100px;
+  /*float: left; */
+  margin: 10px 10px 10px 10px;
+}
+
+#empContainer {
+  display: block;
+  border: 1px solid blue;
+  padding: 10px;
+  margin: 30px;
+  clear: both;
+}
+
+label {
+  display: block;
+}
+
+.person {
+  border: 2px solid black;
+  padding: 2px;
+}
+
+.clicked {
+  border-color: red;
+}
